@@ -1,4 +1,3 @@
-```markdown
 # Enhanced Latent Previewer for ComfyUI
 
 ## Table of Contents

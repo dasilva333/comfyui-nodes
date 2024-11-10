@@ -1,7 +1,5 @@
 # Enhanced ComfyUI Extensions
 
-![ComfyUI Logo](https://example.com/comfyui-logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)

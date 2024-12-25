@@ -34,4 +34,4 @@ Follow these steps to integrate the Enhanced ComfyUI Extensions into your setup:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/enhanced-comfyui-extensions.git
+   git clone https://github.com/dasilva333/enhanced-comfyui-extensions.git
